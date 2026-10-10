@@ -8,6 +8,8 @@ certs/
 secrets/
 .env
 !.env.example
+# public Apple root certificate used as test fixture (no secret)
+!docs/recherche/prototypen/testdaten/Apple_App_Attestation_Root_CA.pem
 
 # --- Python ---
 __pycache__/

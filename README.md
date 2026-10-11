@@ -4,6 +4,8 @@ Native iOS-App, die vorhandene **Tickets, Kundenkarten, Bordkarten, Coupons und 
 
 ## Status
 
+> **Übergabe und Wiedereinstieg:** siehe [HANDOFF.md](HANDOFF.md)
+
 | Phase | Stand |
 |---|---|
 | Grundsatzentscheidungen | ✅ getroffen (siehe unten) |
